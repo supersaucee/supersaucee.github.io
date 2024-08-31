@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/08/29/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>【罗纳德拉】调查大猩猩为什么没食欲是件容易的事（下）</title>
-    <url>/2024/08/31/%E3%80%90%E7%BD%97%E7%BA%B3%E5%BE%B7%E6%8B%89%E3%80%91%E8%B0%83%E6%9F%A5%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%A3%9F%E6%AC%B2%E6%98%AF%E4%BB%B6%E5%AE%B9%E6%98%93%E7%9A%84%E4%BA%8B%EF%BC%88%E4%B8%8B%EF%BC%89/</url>
+    <url>/2024/08/08/%E3%80%90%E7%BD%97%E7%BA%B3%E5%BE%B7%E6%8B%89%E3%80%91%E8%B0%83%E6%9F%A5%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%A3%9F%E6%AC%B2%E6%98%AF%E4%BB%B6%E5%AE%B9%E6%98%93%E7%9A%84%E4%BA%8B%EF%BC%88%E4%B8%8B%EF%BC%89/</url>
     <content><![CDATA[<p><em><strong>*1*</strong></em></p>
 <p>「今天就让那小子好好见识一下，经过德拉德拉主厨之手做出的<del>治愈疗效</del>超级料理。」</p>
 <p>削着马铃薯的吸血鬼就像在预谋如何炖掉人类小孩的女巫或者邪恶的后妈，反正任谁看到他这副样子，都不会觉得他只是想要准备一顿丰盛的晚餐。</p>
@@ -181,7 +163,7 @@
   </entry>
   <entry>
     <title>【罗纳德拉】调查大猩猩为什么没食欲是件容易的事（上）</title>
-    <url>/2024/08/31/%E3%80%90%E7%BD%97%E7%BA%B3%E5%BE%B7%E6%8B%89%E3%80%91%E8%B0%83%E6%9F%A5%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%A3%9F%E6%AC%B2%E6%98%AF%E4%BB%B6%E5%AE%B9%E6%98%93%E7%9A%84%E4%BA%8B%EF%BC%88%E4%B8%8A%EF%BC%89/</url>
+    <url>/2024/08/08/%E3%80%90%E7%BD%97%E7%BA%B3%E5%BE%B7%E6%8B%89%E3%80%91%E8%B0%83%E6%9F%A5%E5%A4%A7%E7%8C%A9%E7%8C%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E9%A3%9F%E6%AC%B2%E6%98%AF%E4%BB%B6%E5%AE%B9%E6%98%93%E7%9A%84%E4%BA%8B%EF%BC%88%E4%B8%8A%EF%BC%89/</url>
     <content><![CDATA[<p><em><strong>*1*</strong></em></p>
 <p>自从德拉尔克擅自搬进罗纳多的吸血鬼退治事务所，转眼竟然已过去一年之久。</p>
 <p>对于罗纳多来说，十五岁时，奇迹般降临的笔友，就像随着凛冽天气同时带来魔法巧克力的一阵风；十八岁时，神秘又亲切的笔友，就像拂过他脸庞的春风，总是让他分不清那究竟是风还是什么，反正弄得他脸的脸和心都痒痒的；二十岁时，再也没有风能吹动他了。</p>
@@ -355,9 +337,11 @@
 ]]></content>
       <categories>
         <category>同人文</category>
+        <category>吸血鬼马上死</category>
       </categories>
       <tags>
         <tag>罗纳德拉</tag>
+        <tag>笔友paro</tag>
       </tags>
   </entry>
   <entry>
@@ -625,9 +609,11 @@
 ]]></content>
       <categories>
         <category>同人文</category>
+        <category>吸血鬼马上死</category>
       </categories>
       <tags>
         <tag>罗纳德拉</tag>
+        <tag>笔友paro</tag>
       </tags>
   </entry>
 </search>
